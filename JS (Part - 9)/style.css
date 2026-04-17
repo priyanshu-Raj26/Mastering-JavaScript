@@ -1,0 +1,9 @@
+.btn {
+  color: rebeccapurple;
+  background-color: azure;
+  margin-left: 16px;
+}
+
+.btn:hover {
+  background-color: aqua;
+}
